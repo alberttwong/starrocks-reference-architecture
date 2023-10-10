@@ -6,6 +6,6 @@ You can view/edit these diagrams by using the online github editor (https://gith
 
 to see the online github editor, see https://github.com/excalidraw/excalidraw/issues/4051 for more details.
 
-![starrocks-ref-arch-1](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/cb536502-737c-4f31-9dd6-2b00f486a870)
+![starrocks-arch-ref-1](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/d682e3f9-e5a2-49a6-923b-93fc012c9058)
 ![starrocks-ref-arch-kafka](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/21056290-f758-4e0d-a15e-70acb07c8203)
 ![starrocks-ref-arch-airbyte](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/4db0e964-0e0e-4eb8-8e46-2a637eb8d26d)
