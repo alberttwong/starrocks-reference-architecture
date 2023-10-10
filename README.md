@@ -2,8 +2,6 @@
 
 We use https://github.com/excalidraw/excalidraw to create our diagrams.
 
-![starrocks-refarch1](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/e85e419c-cf23-49bd-b737-ad53fbf9046d)
-
-![starrocks-refarch-kafka](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/17670f35-c7fc-4631-9f3e-7e5450b9b13a)
-
-![starrocks-refarch-airbyte](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/e18e54de-dd9d-40c8-a555-66071b57e1c5)
+![starrocks-ref-arch-1](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/cb536502-737c-4f31-9dd6-2b00f486a870)
+![starrocks-ref-arch-kafka](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/21056290-f758-4e0d-a15e-70acb07c8203)
+![starrocks-ref-arch-airbyte](https://github.com/alberttwong/starrocks-reference-architecture/assets/749093/4db0e964-0e0e-4eb8-8e46-2a637eb8d26d)
