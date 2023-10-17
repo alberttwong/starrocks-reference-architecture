@@ -1,6 +1,7 @@
 # StarRocks Reference Architecture
 
-We use https://github.com/excalidraw/excalidraw to create our diagrams.
+> [!NOTE]\
+> We use https://github.com/excalidraw/excalidraw to create our diagrams.
 
 You can view/edit these diagrams by using the online github editor (https://github.dev/alberttwong/starrocks-reference-architecture/blob/main/starrocks.excalidraw) or downloading the *.excalidraw file and open it in http://excalidraw.com
 
