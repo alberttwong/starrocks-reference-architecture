@@ -18,3 +18,5 @@ You can view/edit these diagrams by using the online github editor (https://gith
     <img alt="Contributors of alberttwong/starrocks-reference-architecture" src="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?repo_id=703201259&limit=10&image_size=auto&color_scheme=light" width="655" height="auto">
   </picture>
 </a>
+
+![Alt](https://repobeats.axiom.co/api/embed/577a3cba2441746ba98d80ef6c82addfd5f5751a.svg "Repobeats analytics image")
