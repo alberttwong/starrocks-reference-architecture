@@ -20,3 +20,5 @@ You can view/edit these diagrams by using the online github editor (https://gith
 </a>
 
 ![Alt](https://repobeats.axiom.co/api/embed/577a3cba2441746ba98d80ef6c82addfd5f5751a.svg "Repobeats analytics image")
+
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=a198b5a2-d537-46f0-be65-3ead1c138849" />
